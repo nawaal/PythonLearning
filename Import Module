@@ -9,3 +9,15 @@ from minuscule import fonction
 import requests
 #appeler la fonction get du module request appeler la page web et retourner le résultat
 #print(requests.get('http://echo.jsontest.com/hello/world')) #tester que l'adresse fonctionne
+
+#def saluer(nom):
+    #return "Bonjour " + nom
+
+#def appeler(fonction,nom):
+    #return fonction(nom)
+
+#def remercier(nom):
+    #def saluer(nom):
+       # return "Bonjour " + nom
+
+    #return saluer(nom)
