@@ -1,0 +1,2 @@
+def fonction_majuscule(chaine):
+    return  chaine.upper()
