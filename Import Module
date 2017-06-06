@@ -1,0 +1,11 @@
+#importer un module
+
+from majuscule import fonction_majuscule
+from minuscule import fonction
+
+#print(fonction_majuscule("hello world"))
+#print(fonction.minuscule("MANGE TA SOUPE LOL"))
+
+import requests
+#appeler la fonction get du module request appeler la page web et retourner le résultat
+#print(requests.get('http://echo.jsontest.com/hello/world')) #tester que l'adresse fonctionne
